@@ -1,5 +1,4 @@
 Econometric and Data Analysis Software and Tools:
-
 Applied Regression Analysis, STAT 512, Purdue University: https://www.stat.purdue.edu/~snandy/stat512.htm
 EconPapers: Statistical Software Components
 LINDO Software for Integer programming, Linear Programming, Nonlinear Programming, Stochastic Programming, Global Optimization. This is an opensource tool.
